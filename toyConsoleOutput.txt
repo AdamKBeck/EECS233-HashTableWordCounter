@@ -1,0 +1,1 @@
+OK; Total words 24, Hash table size: 32, Average length of collision lists: 0.75

@@ -1,0 +1,9 @@
+This is the "toy" text file to test my program on a small file.
+
+Here are some more sample words to fill up space:
+example
+example
+example
+dog
+example
+dog
